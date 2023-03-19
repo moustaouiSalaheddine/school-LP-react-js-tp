@@ -1,3 +1,20 @@
+# Docs 
+## Install Node.js
+[download Node](https://nodejs.org/en/download)
+## Install Create-React-App package
+`npm install -g create-react-app`
+## Create a new project
+`create-react-app fst-tp`
+## Run a React Project Application
+`cd fst-tp` 
+`npm start`
+## Run a React Project Application
+`cd fst-tp`
+
+
+
+
+# Docs From React
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
